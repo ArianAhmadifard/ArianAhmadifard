@@ -6,6 +6,17 @@
 - 📫 How to reach me: [arian.ahmadifard@gmail.com](mailto:arian.ahmadifard@gmail.com)
 - 🌱 I’m currently learning the **Spring Boot** framework to enhance my backend skills.
 
+### Contact Me:
+
+<p align="center">
+  <a href="https://t.me/DamoonFard" target="blank">
+    <img align="center" src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="telegram"/>
+  </a>
+  <a href="https://www.linkedin.com/in/arian-ahmadifard" target="blank">
+    <img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+</p>
+
 ### Languages and Tools I Work With:
 
 <p align="center">
