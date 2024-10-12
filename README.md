@@ -1,4 +1,4 @@
-👋 Hello, I'm Arian Ahmadifard!
+#👋 Hello, I'm Arian Ahmadifard!
 
 Android Developer | 8+ Years Experience
 Here are some ideas to get you started:
