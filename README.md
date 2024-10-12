@@ -1,10 +1,16 @@
-# 👋 **Hello, I'm Arian Ahmadifard!**
 
-**Android Developer | 8+ Years Experience**
+
+<h1 align="center">Hi 👋, I'm Arian Ahmadifard</h1>
+<h3 align="center">Android Developer | 8+ Years Experience</h3>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Location-Iran-blue?style=for-the-badge" alt="location"/>
+</p>
 
 - 💬 Ask me about **Android**, **Kotlin**, **Java**, **Flutter**
 - 📫 How to reach me: [arian.ahmadifard@gmail.com](mailto:arian.ahmadifard@gmail.com)
 - 🌱 I’m currently learning the **Spring Boot** framework to enhance my backend skills.
+
 
 ### Contact Me:
 
